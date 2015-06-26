@@ -2,7 +2,7 @@
 	"name": "rudrax/annotations",
 	"type": "library",
 	"description": "Script to scan all classes in Project;",
-	"keywords": ["rudra", "API", "controller", "smarty"],
+	"keywords": ["annotations", "classes", "controller"],
 	"license": "MIT",
 	"authors": [
 		{
