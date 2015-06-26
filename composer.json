@@ -1,9 +1,15 @@
 {
-    "name": "rudrax/annotations",
-    "type": "library",
-    "description": "Script to scan all classes in Project;",
-    "keywords": ["rudra", "API", "controller","smarty"],
-    "license": "MIT",
-    "require": {
-    }
+	"name": "rudrax/annotations",
+	"type": "library",
+	"description": "Script to scan all classes in Project;",
+	"keywords": ["rudra", "API", "controller", "smarty"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Erik Amaru Ortiz",
+			"email": "aortiz.erik@gmail.com",
+			"homepage": "https://github.com/eriknyk/phpalchemy"
+		}
+	],
+	"require": {}
 }
