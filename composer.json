@@ -1,5 +1,5 @@
 {
-	"name": "rudrax/annotations",
+	"name": "zhangjy/annotations",
 	"type": "library",
 	"description": "Script to scan all classes in Project;",
 	"keywords": ["annotations", "classes", "controller"],
@@ -11,5 +11,10 @@
 			"homepage": "https://github.com/eriknyk/phpalchemy"
 		}
 	],
-	"require": {}
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Alchemy\\Component\\Annotations\\": "src"
+		}
+	}
 }
