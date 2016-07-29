@@ -2,21 +2,18 @@
 /*
  * This file is part of the phpalchemy package.
  *
- * (c) Erik Amaru Ortiz <aortiz.erik@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 
-namespace Alchemy\Component\Annotations;
+namespace Zhangjy\Component\Annotations;
 
 /**
  * Class Annotations
  *
  * @version   1.0
- * @author    Erik Amaru Ortiz <aortiz.erik@gmail.com>
- * @link      https://github.com/eriknyk/phpalchemy
- * @copyright Copyright 2012 Erik Amaru Ortiz
+ * @link      https://github.com/zhangjy555/annotations
  * @license   http://www.opensource.org/licenses/mit-license.php MIT License
  * @package   phpalchemy
  * @depends   Notoj\*
