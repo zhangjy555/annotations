@@ -6,9 +6,9 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Erik Amaru Ortiz",
-			"email": "aortiz.erik@gmail.com",
-			"homepage": "https://github.com/eriknyk/phpalchemy"
+			"name": "zhangjy",
+			"email": "",
+			"homepage": "https://github.com/zhangjy555/annotations"
 		}
 	],
 	"require": {},
